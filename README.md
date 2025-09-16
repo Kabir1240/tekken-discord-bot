@@ -90,7 +90,7 @@ Here’s how it looks in action:
 ## 🔗 Related Project
 
 Check out my other project:
-👉 [Tekken Frame Data App](https://your-app-link-here)
+👉 [Tekken Frame Data App](https://github.com/Kabir1240/TekkenFrameDataApp)
 
 A standalone web app for browsing Tekken frame data in a clean and accessible way.
 
